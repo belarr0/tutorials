@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Data\программирование\С++\#Simplecode\sc12\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sc12.vcxproj -> D:\Data\программирование\С++\#Simplecode\sc12\Debug\sc12.exe
