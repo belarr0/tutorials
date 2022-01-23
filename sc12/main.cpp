@@ -8,12 +8,7 @@ void main()
 	//bool isRain = true;
 	bool isRain = false;
 
-	/*
-	if (isRain)
-	{
-		cout << "ָה¸ע המזהü, גמחüלט חמםע" << endl;
-	}
-	*/
+	
 	if (isRain)
 	{
 		cout << "ָה¸ע המזהü, גמחüלט חמםע" << endl;
