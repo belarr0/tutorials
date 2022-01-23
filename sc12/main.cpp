@@ -5,16 +5,20 @@ void main()
 {
 	setlocale(LC_ALL, "ru");
 
-	//bool isRain = true;
-	bool isRain = false;
+	int a;
+	cout << "Введите число" << endl;
+	cin >> a;
 
-	
-	if (isRain)
+	if (a>5)
 	{
-		cout << "Идёт дождь, возьми зонт" << endl;
+		cout << "Ваше число больше 5-ти" << endl;
+	}
+	else if(a==5)
+	{
+		cout << "Ваше число равно 5-ти" << endl;
 	}
 	else
 	{
-		cout << "Дождя нету, можешь не брать зонт" << endl;
+		cout << "Ваше число меньше 5-ти" << endl;
 	}
 }
